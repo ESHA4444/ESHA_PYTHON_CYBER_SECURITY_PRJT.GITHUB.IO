@@ -1,0 +1,8 @@
+------------------------------------------------------------- 
+ Weather Stats for - TIRUNELVELI  || 26 Jul 2021 | 03:53:56 PM
+ ------------------------------------------------------------- 
+Current temperature is: 27.74 deg C
+Current weather desc  :,overcast clouds 
+Current Humidity      :,68,% 
+Current wind speed    :,5.7,kmph 
+====================================================
